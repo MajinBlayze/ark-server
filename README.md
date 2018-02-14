@@ -1,3 +1,11 @@
+# note:
+For now, this is shamelessly copied from TuRz4m.
+This projecect has three goals:
+
+ - Convert the base to Arch for reasons
+ - Convert the docker-compose.yml to v3 and make use of configs to ease configuration
+ - fix a few of the random issues I've had with arkmanager
+
 # ARK: Survival Evolved - Docker
 
 Docker build for managing an ARK: Survival Evolved server.
